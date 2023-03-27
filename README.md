@@ -9,7 +9,7 @@
 <h4> Hi!, I am Arun Thilakan having 7.0 years Overall IT Experience as Devops Engineer with Linux Server Administration and Automation Skills and Wide Variety of Professional system support on Linux Systems. </h4>
 
 <!-- ######### GitHub Stats ################################# --> 
-## 📟 GitHub Stats
+## GitHub Stats
 <p align="center">
         <img width="45%" src="https://github-readme-stats.vercel.app/api?username=arunthilakan&show_icons=true&theme=bear" />
         <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=arunthilakan&theme=bear" />
@@ -17,7 +17,7 @@
 
 
 <!-- ### Github Profile Summary Card --> 
-## 💳 Github Profile Summary Card
+## Github Profile Summary Card
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arunthilakan&theme=bear"/>
 </p>
