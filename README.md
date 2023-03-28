@@ -1,7 +1,7 @@
 <h1 align="center">  Hi there 👋  I am <a href="https://arunthilakan.ml"> ARUN THILAKAN </a>!</h1>
 <h3 align="center"> <i> A DevOps Engineer from INDIA </i> </h3>
 
-<h1 align="center" style="font-size: 90px;"> DevOps Engineer at SAP LABS INDIA </h1>
+<h1 align="center" style="font-size: 90px;"> DevOps Engineer at SAP LABS </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arunthilakan&label=Views&color=blue&style=for-the-badge" alt="arunthilakan" /> </p>
 
