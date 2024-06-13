@@ -8,7 +8,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arunthilakan&label=Views&color=blue&style=for-the-badge" alt="arunthilakan" /> </p>
 
 # About Me :
-<h4> Hi!, I am Arun Thilakan having 7.0 years Overall IT Experience as Devops Engineer with Linux Server Administration and Automation Skills and Wide Variety of Professional system support on Linux Systems. </h4>
+<h4> Hi!, I am Arun Thilakan having 8.0 years Overall IT Experience as Devops Engineer with Linux Server Administration and Automation Skills and Wide Variety of Professional system support on Linux Systems. </h4>
 
 <p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&pause=1000&color=F72E81&width=435&lines=Redhat+Certified;GCP+ACE+Certified;DevOps+Engineer;CKAD+Certified" alt="Typing SVG" /></a>
